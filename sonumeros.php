@@ -1,5 +1,9 @@
 <?php
 
+//
+//  Função para retornar uma string apenas com os números contidos nela
+//
+
 function sonumeros($texto)
   {
      $atual = 0;
