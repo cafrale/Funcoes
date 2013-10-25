@@ -6,8 +6,10 @@
 
 function sonumeros($texto)
   {
-     $atual = 0;
+    
+     $atual   = 0;
      $numeros = '';
+     
      while ($atual <= strlen($texto))
        {
          $processando = substr($texto,$atual,1);
