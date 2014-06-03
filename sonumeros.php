@@ -29,4 +29,8 @@ function sonumeros($texto)
     return $numeros;
   }
 
+//
+//  Fim da função
+//  
+
 ?>
