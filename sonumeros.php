@@ -6,7 +6,7 @@
 
 function sonumeros($texto)
   {
-    
+     // aaa
      $atual   = 0;
      $numeros = '';
      
